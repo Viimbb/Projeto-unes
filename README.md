@@ -1,2 +1,2 @@
 # Projeto-unes
- Projeto da Aula de HTML5
+ Projeto simples da Aula de HTML5
